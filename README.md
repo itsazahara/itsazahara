@@ -23,4 +23,3 @@ Outside of work, I am passionate about expanding my knowledge of the world of te
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<img src="https://tenor.com/n1MQ69cmz5R.gif" width="300" alt="Anime Gif">
