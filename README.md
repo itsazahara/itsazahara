@@ -1,4 +1,4 @@
-**Hi there!** 🤍
+**Hi there!** <img src='https://slackmojis.com/emojis/8809-wave_hello/download' width="25"/>
 
 I'm Azahara, a higher technician in web application development based in Spain.
 
