@@ -34,6 +34,19 @@ Outside of work, I am passionate about expanding my knowledge of the world of te
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
+### My Github stats:
+![](https://github-readme-stats.vercel.app/api?username=itsazahara&theme=light&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=itsazahara&theme=light&hide_border=false)
+
+---
+### My Github trophies:
+![](https://github-trophies.vercel.app/?username=itsazahara&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&)
+
+---
+### Random Dev Quotes:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=juicyfresh)
+
+---
 <p align="center">
 <img src='https://media1.tenor.com/m/oX48-I2Nfv0AAAAC/mai-sakurajima-bunny-girl-senpai.gif' width="50%" height="50%" style="position:absolute"/>
 </p>
