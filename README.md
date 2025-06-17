@@ -43,10 +43,6 @@ Outside of work, I am passionate about expanding my knowledge of the world of te
 ![](https://github-trophies.vercel.app/?username=itsazahara&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&)
 
 ---
-### Random Dev Quotes:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=juicyfresh)
-
----
 <p align="center">
 <img src='https://media1.tenor.com/m/oX48-I2Nfv0AAAAC/mai-sakurajima-bunny-girl-senpai.gif' width="50%" height="50%" style="position:absolute"/>
 </p>
